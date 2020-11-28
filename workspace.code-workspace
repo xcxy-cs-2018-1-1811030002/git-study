@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../-7"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"remoteAuthority": "wsl+Ubuntu-20.04",
+	"settings": {}
+}
